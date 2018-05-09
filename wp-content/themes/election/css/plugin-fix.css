@@ -1,0 +1,206 @@
+/*Team Member*/
+.team_member_wrapper { margin-right:0; }
+
+/*Block Quote*/
+#content blockquote .title_text p {	font-size: 24px; margin:0; line-height: 30px; }
+#content blockquote,#content blockquote p { font-size: 24px; line-height: 30px; margin: 0;  font-style: normal; font-weight: normal; }
+blockquote cite, blockquote small { font-size: 14px; }
+
+/*Photo Gallery*/
+.swm_custom_gallery { margin-bottom: 30px; margin-top: -5px; display: block;  }
+
+/*Steps list style*/
+.steps_with_circle ol li span {  background: url(images/backgrounds/ordered_list_bg.png) no-repeat; min-height: 42px; }
+
+/*Social Media*/
+.sidebar .sm_icons ul { margin-bottom: 0; }
+.sidebar .sm_icons ul li { width:auto; clear:none; }
+.sidebar .sm_icons ul li:first-child { padding-top: 4px; }
+
+/*Widgets*/
+.swm_container .recent_posts_tiny li,.swm_container .recent_posts_small li,.pricing_content ul li { margin-left: 0; }
+.sidebar .recent_posts_tiny ul li { padding:15px 0; }
+.sidebar .recent_posts_tiny ul li:first-child { padding-top: 0; }
+.footer .recent_posts_tiny ul li { border:0; padding-bottom: 20px; }
+.sidebar ul li.cat-item a small,.footer ul li.cat-item a small { padding:2px 6px; }
+a.recent_posts_tiny_icon i { font-size: 15px; }
+.sidebar .recent_posts_tiny ul li h4,.footer .recent_posts_tiny ul li h4 { font-size: 13px; line-height:20px; }
+.sidebar .recent_posts_tiny ul li .recent_posts_tiny_content p { padding:0; }
+.footer .recent_posts_tiny ul li .recent_posts_tiny_content p { opacity: 0.6; padding:0; }
+.sidebar .recent_posts_tiny_content, .footer .recent_posts_tiny_content { margin-top:0; }
+.sidebar .recent_posts_tiny ul li a img, .footer .recent_posts_tiny ul li a img { width:45px; height:45px; }
+
+.footer .recent_work_widget ul li,.sidebar .recent_work_widget ul li { padding:0; }
+.footer .recent_work_widget img,.footer .recent_work_widget a img { width:58px; height:58px; }
+
+.contact_info ul { padding:10px 0 0 0; margin:0; }
+.contact_info ul.c_list { padding:20px; }
+.footer .contact_info ul li a { display: inline-block;}
+.footer .contact_info ul li { padding-bottom: 5px; }
+
+.swm_video_widget p { margin:0; }
+
+.footer .testimonials-bx-slider-wrap { margin:0; }
+.footer .sidebar-advertise ul li { float:left; padding:0; margin:0 5px 5px 0;}
+
+/*pricing tables*/
+.pricing_content ul li { padding:10px 0; }
+
+.product_column h2 { font-size: 20px; }
+
+/* ===== WPML Plugin ===== */
+
+.top-menu ul.sf-menu li.menu-item-language ul li a:before { content:'';margin-right:0; }
+
+/* sidebar mobile friendly dropdown*/
+#lang_sel_click li { width:100%; }
+.sidebar #lang_sel_click ul li a { padding:3px 10px; }
+#lang_sel_click a, #lang_sel_click a:visited { border-color: #ddd; border-radius: 3px; padding:3px 10px; }
+#lang_sel_click ul ul { width:100%; top:37px; background:#fff; border:1px solid #ddd; padding:10px 0 0 0; height:auto; z-index: 99; border-radius: 3px;}
+.sidebar #lang_sel_click ul li ul li, .sidebar #lang_sel_click ul li ul li a { border:0; background: none;  }
+.sidebar #lang_sel_click ul li:before,.sidebar #lang_sel_click ul li ul li:before { padding-right: 0; }
+.sidebar #lang_sel_click ul li ul li { padding:0 0 10px 0;}
+.sidebar #lang_sel_click ul li ul li:first-child { padding-top: 10px; }
+
+.footer .widget #lang_sel_click ul li a { padding:3px 10px; }
+.footer .widget #lang_sel_click a, .footer .widget #lang_sel_click a:visited { border-radius: 3px; padding:3px 10px;  }
+.footer .widget #lang_sel_click ul li ul { top:31px; padding:10px 0 0 0; height:auto; z-index: 99; width:100%; border-radius: 3px;   }
+.footer .widget #lang_sel_click ul li ul li, .footer .widget #lang_sel_click ul li ul li a { border:0; background: none; }
+.footer .widget #lang_sel_click ul li:before,.footer .widget #lang_sel_click ul li ul li:before { padding-right: 0; }
+.footer .widget #lang_sel_click ul li ul li { padding:0 0 10px 0;}
+.footer .widget #lang_sel_click ul li ul li:first-child { padding-top: 10px; }
+
+/* sidebar mobile friendly classic */
+#lang_sel li { width:100%; }
+.sidebar #lang_sel { margin:0 0 40px 0;  width:100%;}
+.sidebar #lang_sel ul ul { top:31px; background:#fff; border-radius: 3px; border:1px solid #ddd; padding:10px 0 0 0; height:auto; z-index: 99; width:100%; }
+.sidebar #lang_sel ul li ul li, .sidebar #lang_sel ul li ul li a { border:0; background: none; padding-top:10px; }
+.sidebar #lang_sel ul li:before,.sidebar #lang_sel ul li ul li:before { padding-right: 0; }
+.sidebar #lang_sel ul li ul li { padding:0 0 10px 0; height:30px; margin:5px 0; }
+.sidebar #lang_sel ul li ul li:first-child { margin-top: 10px; }
+.sidebar #lang_sel a, #lang_sel a:visited { border-color: #ddd; border-radius: 3px; padding:3px 10px; }
+
+/* sidebar list menu */
+#content .sidebar #lang_sel_list ul { background:#fff; height:auto; }
+.sidebar #lang_sel_list ul li ul li, .sidebar #lang_sel_list ul li ul li a { border:0; background: none;  }
+.sidebar #lang_sel_list ul li:before,.sidebar #lang_sel_list ul li ul li:before { padding-right: 0; }
+.sidebar #lang_sel_list ul li ul li { padding:0 0 10px 0; height:30px; margin:5px 0; display: block; clear:both;  }
+.sidebar #lang_sel_list a, #lang_sel_list a:visited {  } 
+#lang_sel_list.lang_sel_list_vertical a, #lang_sel_list.lang_sel_list_vertical a:visited { border:0; }
+#lang_sel_list.lang_sel_list_vertical ul { top:0; }
+#lang_sel_list.lang_sel_list_vertical,#lang_sel_list.lang_sel_list_vertical li { width:100%;}
+#lang_sel_list.lang_sel_list_vertical a,#lang_sel_list.lang_sel_list_vertical ul a { padding-left:0; padding-right: 0; }
+#lang_sel_list.lang_sel_list_vertical ul li:first-child a, #lang_sel_list_list ul li:first-child a:visited { padding-top:0; }
+
+#lang_sel_list.lang_sel_list_vertical ul, .sidebar .lang_sel_list_vertical ul li a { border:0;  }
+.sidebar #lang_sel_list.lang_sel_list_horizontal ul li,.sidebar #lang_sel_list.lang_sel_list_horizontal ul li a { display: inline-block; width: auto; float: left;  clear: none; padding-right: 12px; line-height: 24px; padding-left:0; }
+
+.footer .widget #lang_sel_list ul { height:auto; }
+.footer .widget #lang_sel_list ul li, .footer .widget #lang_sel_list ul li a { border:0; background:none transparent; }
+.footer .widget #lang_sel_list ul li:before,.footer .widget #lang_sel_list ul li ul li:before { padding-right: 0; }
+.footer .widget #lang_sel_list ul li ul li { padding:0 0 10px 0; height:30px; margin:5px 0; display: block; clear:both;  }
+.footer .widget #lang_sel_list a, #lang_sel_list a:visited { border-radius: 3px; padding:3px 0px; } 
+.footer .widget #lang_sel_list ul li:last-child a { margin-bottom: 40px; }
+
+#lang_sel_list.lang_sel_list_vertical ul, .footer .widget .lang_sel_list_vertical ul li a { border:0;  }
+.footer .widget #lang_sel_list.lang_sel_list_horizontal ul li,.footer .widget #lang_sel_list.lang_sel_list_horizontal ul li a { display: inline-block; width: auto; float: left;  clear: none; padding-right: 10px; }
+
+/* Newsletter Signup Plugin */
+
+#mc_signup { position: relative; }
+#mc_signup_form {  }
+
+.widget_mailchimpsf_widget { display: table; position: relative; margin-bottom: 36px; }
+.sidebar .widget_mailchimpsf_widget .swm_widget_box { background: none; border:0; }
+.sidebar .widget_mailchimpsf_widget .swm_widget_block { border:0; padding:0;  }
+.sidebar .widget_mailchimpsf_widget .swm_widget_box h3,.footer .widget_mailchimpsf_widget .footer_widget h3 {  color:#fff;  padding:20px 20px 0 20px; margin-bottom: 15px; }
+
+#mc_signup_form form { margin-bottom: 0; }
+#mc_display_rewards, #mc_signup_form .mc_var_label, .mc_interest_label { display: none;}
+#mc_signup_form .mc_merge_var { width:60%; float: left !important; margin-bottom: 0px; display: table-cell; display: table-cell; bottom:0; position: absolute; left:0;}
+#mc_signup_form .mc_merge_var input[type="text"] { border:1px solid #ddd; border-radius:0; line-height:18px; text-indent: 3px; padding:8px;  }
+#mc_signup_form .mc_signup_submit { width:40%; float: left !important; margin-bottom: 0px; text-align: center; display: table-cell; bottom:0; position: absolute; right:0; }
+#mc_signup_form .mc_input { margin-bottom: 0px; width:100%; }
+#mc_signup_form input[type="submit"] { font-size: 13px; text-transform: uppercase; color: #FFF; line-height: 18px;  padding:9px 8px; margin:0; width:100%; cursor: pointer; border: none; }	
+#mc_signup_form #mc_subheader { padding:0 20px 20px 20px; line-height: 20px; color:#fff; margin: 0; display: block; }
+
+#mc_signup_form .mc_form_inside { position: absolute; height:36px; width:100%; }
+
+#mc_signup_form .mc_form_inside #mc_message { padding:0 20px; margin-bottom: 0; display: block; position: absolute; margin-top: 20px; top:0; width:100%; z-index: 2; }
+#mc_signup_form .mc_form_inside #mc_message strong { font-weight: normal; }
+.footer #mc_signup_form .mc_form_inside #mc_message { margin-bottom: 20px; }
+
+#mc_signup_form .mc_form_inside #mc_message span.mc_error_msg, #mc_signup_form .mc_form_inside #mc_message .mc_success_msg { margin:15px -20px -27px -20px; display: block; line-height: 20px; color:#fff; background: green; padding:15px 20px; text-shadow:none;  }
+
+#mc_signup_form .mc_form_inside #mc_message span.mc_error_msg { background: #9e2028; }
+.footer #mc_signup_form .mc_merge_var input[type="text"] { line-height: 18px; height:auto; }
+#wpml_credit_footer { margin:0; padding:10px 0; }
+
+/* Recent Tweets */
+.sidebar .tp_recent_tweets ul li,.footer .tp_recent_tweets ul li { margin-left: 38px; margin-bottom: 15px; background: none; line-height: 22px; }
+.sidebar .tp_recent_tweets ul li:last-child,.footer .tp_recent_tweets ul li:last-child { margin-bottom: 5px; }
+
+.footer .tp_recent_tweets ul li:before,.sidebar .tp_recent_tweets ul li:before { content:"\f099"; font-size: 14px; font-family: fontAwesome; width:26px; height:26px; line-height: 26px; background: #e5e5e5; border-radius: 100px; float:left; margin:5px 0 0 -38px; display: inline-block; text-align: center;  }
+
+.tp_recent_tweets ul li a.twitter_time { font-style: normal; }
+
+/* Contact Form 7 */
+.wpcf7 input[type="submit"] { border-radius: 3px; font-size: 13px; padding: 7px 18px; line-height:18px; width:auto; }
+.wpcf7 .swm_column input { width:100%; }
+
+/* ---------------------------------------------- 
+ 	Donation Plugin ( Give )
+---------------------------------------------- */
+
+h2.give-form-title,.give-goal-progress { display: none; }
+input[type="checkbox"].give_agree_to_terms, #give_terms_agreement label { display:inline-block; margin-left:5px; }
+#give_show_terms .give_terms_links { font-size: 90%; }
+ul#give-donation-level-radio-list li { display: inline-block; margin-right:20px; font-weight: normal; }
+ul#give-donation-level-radio-list li label,#give-payment-mode-select #give-gateway-radio-list label { font-weight:normal; display: inline-block; padding-left:5px; }
+#give-payment-mode-select,#give_purchase_form_wrap { border:1px solid rgba(0,0,0,0.1); border-bottom:0; padding:25px 30px; margin-bottom:-1px; border-left:0; border-right:0;  }
+#give-payment-mode-select .give-payment-mode-label { border:0; padding:0; margin:0; width:auto; }
+#give-payment-mode-select #give-gateway-radio-list { margin:0; }
+#give-payment-mode-select { border-top:0; }
+.give-modal #give-payment-mode-select { border-top:1px solid rgba(0,0,0,0.1); padding-top: 30px;  }
+.give-modal #give-payment-mode-select .give-payment-mode-label { float:left; display: block; width:100%; padding-bottom: 10px;}
+
+#give-recurring-form, form.give-form, form[id*=give-form] { border:1px solid rgba(0,0,0,0.1); padding:30px 0 0 0; display: block;  }
+#give_purchase_form_wrap legend { display: none; }
+.give-total-wrap,#give-donation-level-radio-list,ul#give-donation-level-button-wrap,.give-custom-amount-text { padding:0 30px; }
+form[id*=give-form] .give-donation-amount #give-amount, form[id*=give-form] .give-donation-amount #give-amount-text,
+form[id*=give-form] .give-donation-amount .give-currency-symbol,
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label,
+form[id*=give-form] #give-final-total-wrap .give-final-total-amount { height:40px; line-height:40px; }
+#give-purchase-button,[id*=give-form].give-display-modal button.give-btn.give-btn-modal { margin-bottom:10px; border-radius:3px; font-weight: bold; padding:7px 20px;   }
+ul#give-donation-level-button-wrap { margin-bottom:25px; }
+ul#give-donation-level-button-wrap li { margin:0 -1px -1px 0; }
+ul#give-donation-level-button-wrap li button { border-radius:0; border-color:rgba(0,0,0,0.1); border-right:1px solid rgba(0,0,0,0.05); }
+ul#give-donation-level-button-wrap li:last-child button { border-color:rgba(0,0,0,0.1); }
+ul#give-donation-level-button-wrap li button.give-btn { padding:10px 20px; font-size:90%; background:transparent;  }
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label,form[id*=give-form] #give-final-total-wrap .give-final-total-amount { font-size:95%; padding-left:15px; padding-right:15px; }
+
+.give-select.give-select-level.give-donation-levels-wrap { margin:0 30px 30px; padding:10px 12px; background:url(../images/select.png) no-repeat right center; }
+table#give_donation_receipt .give-receipt-thead-text { text-transform: uppercase; font-size: 120%; }
+table.give-table { font-size:100%; }
+
+.give-form .give_error { margin:0 30px 30px; }
+.set-price.give-donation-amount.form-row-wide { padding:0 30px; }
+
+.sidebar ul#give-donation-level-button-wrap li,.sidebar ul#give-donation-level-button-wrap li { border:0; padding:0; margin:0 -1px -1px 0; display: inline-block; float:left; }
+.sidebar [id*=give-form].give-display-modal ul li .give-btn,.sidebar ul#give-donation-level-button-wrap .give-donation-level-btn { margin:0; }
+.sidebar ul#give-donation-level-button-wrap li button { border-color:#e6e6e6; padding:10px 15px; }
+.sidebar ul#give-gateway-radio-list li { padding:0; margin:0 15px 0 0; border:0; }
+.sidebar #give_purchase_form_wrap { margin-top:0; }
+.sidebar #give_purchase_form_wrap input[type="text"],.sidebar #give_purchase_form_wrap input[type="email"] { padding:6px 12px; }
+.sidebar form.give-form .form-row { margin:0; }
+
+[id*=give-form].give-display-modal button.give-btn.give-btn-modal,[id*=give-form].give-display-reveal button.give-btn-reveal {  margin:0 30px 30px;  padding:7px 20px; font-size:12px; line-height:20px; text-transform: uppercase; border:0; border-radius: 3px; font-weight:bold; text-shadow: 0 1px 0 rgba(0,0,0,0.2); box-shadow: 0 0 1px 0 rgba(255, 255, 255, 0.5) inset, 0 0 1px 1px rgba(0, 0, 0, 0.05); border: 1px solid rgba(0, 0, 0, .1); }
+
+.give-modal .mfp-inline-holder .mfp-content form[id*=give-form] { border-top:0; padding:0; }
+
+.give-modal .mfp-inline-holder .mfp-content button.mfp-close { background:#f2f2f2; border:1px solid rgba(0,0,0,0.05); border-radius:0; }
+.give-modal .mfp-inline-holder .mfp-content a { text-decoration: none; }
+
+.wpb_text_column p.form-row input:last-child,.wpb_text_column #give_terms p:last-child, .wpb_text_column #give_purchase_form_wrap :last-child { margin-bottom:20px; }
+ul#give-donation-level-button-wrap li button.give-default-level { font-weight: bold; }
+#give_terms_agreement #give_terms { background:rgba(0,0,0,0.05); padding:20px; margin-bottom: 20px; }

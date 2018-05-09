@@ -1,0 +1,2193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Poli shortcodes\n"
+"POT-Creation-Date: 2017-01-10 13:11+0530\n"
+"PO-Revision-Date: 2017-01-10 13:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_c;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: post-types\n"
+"X-Poedit-SearchPath-2: shortcodes\n"
+"X-Poedit-SearchPath-3: widgets\n"
+"X-Poedit-SearchPath-4: functions\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+"X-Poedit-SearchPathExcluded-2: fonts\n"
+"X-Poedit-SearchPathExcluded-3: css\n"
+
+#: functions/custom-functions.php:33
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/custom-functions.php:34
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/custom-functions.php:35
+msgid "Google Plus URL"
+msgstr ""
+
+#: functions/custom-functions.php:36
+msgid "Pinterest URL"
+msgstr ""
+
+#: functions/custom-functions.php:37
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions/custom-functions.php:38
+msgid "Tumblr URL"
+msgstr ""
+
+#: functions/custom-functions.php:39
+msgid "Delicious URL"
+msgstr ""
+
+#: functions/custom-functions.php:40
+msgid "Vimeo URL"
+msgstr ""
+
+#: functions/custom-functions.php:41
+msgid "YouTube URL"
+msgstr ""
+
+#: post-types/create-post-types.php:12
+msgid "Sort Portfolio Items"
+msgstr ""
+
+#: post-types/create-post-types.php:14
+msgid "Sort Testimonials Items"
+msgstr ""
+
+#: post-types/create-post-types.php:30
+msgid "Sort Items"
+msgstr ""
+
+#: post-types/create-post-types.php:31
+msgid "Re-order items by drag and drop."
+msgstr ""
+
+#: post-types/metaboxes.php:17
+msgid "Portfolio Options"
+msgstr ""
+
+#: post-types/metaboxes.php:24
+msgid "Project Type"
+msgstr ""
+
+#: post-types/metaboxes.php:29 post-types/portfolio.php:76
+#: post-types/testimonial.php:75 shortcodes/tinymce/config.php:237
+#: shortcodes/tinymce/config.php:657 shortcodes/tinymce/config.php:691
+msgid "Image"
+msgstr ""
+
+#: post-types/metaboxes.php:30 shortcodes/tinymce/config.php:463
+msgid "Video"
+msgstr ""
+
+#: post-types/metaboxes.php:34
+msgid "Add YouTube/Vimeo Video URL"
+msgstr ""
+
+#: post-types/metaboxes.php:46
+msgid "Testimonials Options"
+msgstr ""
+
+#: post-types/metaboxes.php:53
+msgid "Client Details (optional)"
+msgstr ""
+
+#: post-types/metaboxes.php:54
+msgid "Client designation, city or country name etc. "
+msgstr ""
+
+#: post-types/metaboxes.php:60
+msgid "Website URL (optional)"
+msgstr ""
+
+#: post-types/metaboxes.php:61
+msgid "Client website FULL PATH URL. <br />Example: http://www.loremips.com"
+msgstr ""
+
+#: post-types/metaboxes.php:73
+msgid "Logo Options"
+msgstr ""
+
+#: post-types/metaboxes.php:80
+msgid "Client Website URL (optional)"
+msgstr ""
+
+#: post-types/metaboxes.php:81
+msgid "Enter client website URl or leave it blank"
+msgstr ""
+
+#: post-types/portfolio.php:11 post-types/portfolio.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: post-types/portfolio.php:13 post-types/testimonial.php:13
+msgid "Add New"
+msgstr ""
+
+#: post-types/portfolio.php:14
+msgid "Add New Portfolio"
+msgstr ""
+
+#: post-types/portfolio.php:15
+msgid "Edit Portfolio"
+msgstr ""
+
+#: post-types/portfolio.php:16
+msgid "New Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio.php:17
+msgid "View Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio.php:18
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: post-types/portfolio.php:19
+msgid "No portfolio items found"
+msgstr ""
+
+#: post-types/portfolio.php:20
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: post-types/portfolio.php:42 post-types/portfolio.php:53
+msgid "portfolio"
+msgstr ""
+
+#: post-types/portfolio.php:52
+msgid "portfolio-categories"
+msgstr ""
+
+#: post-types/portfolio.php:57 post-types/portfolio.php:58
+msgid "Portfolio Categories"
+msgstr ""
+
+#: post-types/portfolio.php:74
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: post-types/portfolio.php:75 post-types/testimonial.php:77
+msgid "Category"
+msgstr ""
+
+#: post-types/portfolio.php:77
+msgid "Date"
+msgstr ""
+
+#: post-types/portfolio.php:108
+msgid "Add Portfolio Image"
+msgstr ""
+
+#: post-types/portfolio.php:111 post-types/portfolio.php:114
+msgid "Set portfolio image"
+msgstr ""
+
+#: post-types/portfolio.php:117
+msgid "Remove portfolio image"
+msgstr ""
+
+#: post-types/testimonial.php:11 shortcodes/tinymce/config.php:401
+#: widgets/testimonials-widget.php:136
+msgid "Testimonials"
+msgstr ""
+
+#: post-types/testimonial.php:12
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/testimonial.php:14
+msgid "Add New testimonial"
+msgstr ""
+
+#: post-types/testimonial.php:15
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post-types/testimonial.php:16
+msgid "New Testimonial Item"
+msgstr ""
+
+#: post-types/testimonial.php:17
+msgid "View Testimonial Item"
+msgstr ""
+
+#: post-types/testimonial.php:18
+msgid "Search Testimonials"
+msgstr ""
+
+#: post-types/testimonial.php:19
+msgid "No testimonial items found"
+msgstr ""
+
+#: post-types/testimonial.php:20
+msgid "No testimonial items found in Trash"
+msgstr ""
+
+#: post-types/testimonial.php:42 post-types/testimonial.php:53
+msgid "testimonials"
+msgstr ""
+
+#: post-types/testimonial.php:52
+msgid "testimonials-categories"
+msgstr ""
+
+#: post-types/testimonial.php:57 shortcodes/tinymce/config.php:260
+#: widgets/category-widget.php:13
+msgid "Categories"
+msgstr ""
+
+#: post-types/testimonial.php:58
+msgid "Testimonials Categories"
+msgstr ""
+
+#: post-types/testimonial.php:74
+msgid "Client Name"
+msgstr ""
+
+#: post-types/testimonial.php:76
+msgid "Client Details"
+msgstr ""
+
+#: post-types/testimonial.php:78
+msgid "Website URL"
+msgstr ""
+
+#: post-types/testimonial.php:128
+msgid "Add Client Image"
+msgstr ""
+
+#: post-types/testimonial.php:131 post-types/testimonial.php:134
+msgid "Set client image"
+msgstr ""
+
+#: post-types/testimonial.php:137
+msgid "Remove client image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:385 shortcodes/shortcodes.php:599
+msgid "Comments"
+msgstr ""
+
+#: shortcodes/shortcodes.php:706 widgets/upcoming-events-widget.php:78
+msgid "There are no upcoming events at this time."
+msgstr ""
+
+#: shortcodes/shortcodes.php:714
+msgid ""
+"Please install and activate <a href=\"https://wordpress.org/plugins/the-"
+"events-calendar/\" target=\"_blank\">The Event Calendar</a>\" plugin to "
+"display Upcoming Events"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:42 shortcodes/tinymce/config.php:82
+msgid "Column Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:43
+msgid "Select \"First\" if this column is first ( left column )"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:46
+msgid "First Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:58
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:66
+msgid "Column Width"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:67
+msgid "Select the width of the column."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:69
+msgid "One Third"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:70
+msgid "Two Third"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:71
+msgid "One Half"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:72
+msgid "One Fourth"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:73
+msgid "Three Fourth"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:74
+msgid "One Fifth"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:75
+msgid "Four Fifth"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:76
+msgid "One Sixth"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:77
+msgid "Five Sixth"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:83
+msgid ""
+"If this is first column in row then select \"First\" from above dropdown "
+"menu."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:85
+msgid "Other"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:86
+msgid "First"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:91 shortcodes/tinymce/config.php:1342
+#: widgets/testimonials-widget.php:190
+msgid "Animation Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:92
+msgid "Select column animation style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:94 shortcodes/tinymce/config.php:1345
+msgid "None"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:95 shortcodes/tinymce/config.php:1347
+msgid "Move Left to Right"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:96 shortcodes/tinymce/config.php:1348
+msgid "Move Right to Left"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:97 shortcodes/tinymce/config.php:1349
+msgid "Move Top to Bottom"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:98 shortcodes/tinymce/config.php:1350
+msgid "Move Bottom to Top"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:99 shortcodes/tinymce/config.php:1346
+msgid "Expand from Center"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:105
+msgid "Column Content"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:106
+msgid "Add the column content."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:110
+msgid "Add New Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:121 shortcodes/tinymce/config.php:123
+msgid "Tab 1 Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:129
+msgid "Tab 1 link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:133 shortcodes/tinymce/config.php:135
+msgid "Tab 2 Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:141
+msgid "Tab 2 link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:145 shortcodes/tinymce/config.php:147
+msgid "Tab 3 Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:153
+msgid "Tab 3 link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:157 shortcodes/tinymce/config.php:159
+msgid "Tab 4 Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:165
+msgid "Tab 4 link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:176
+msgid "Horizontal Menu"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:188 shortcodes/tinymce/config.php:422
+msgid "Animation Type"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:191 shortcodes/tinymce/config.php:425
+msgid "Fade"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:192
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:197
+msgid "Auto Play"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:200 shortcodes/tinymce/config.php:209
+#: shortcodes/tinymce/config.php:218 shortcodes/tinymce/config.php:326
+#: shortcodes/tinymce/config.php:755 shortcodes/tinymce/config.php:840
+#: shortcodes/tinymce/config.php:915 shortcodes/tinymce/config.php:1310
+#: shortcodes/tinymce/config.php:1337 shortcodes/tinymce/config.php:1653
+#: shortcodes/tinymce/config.php:1662
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:201 shortcodes/tinymce/config.php:210
+#: shortcodes/tinymce/config.php:219 shortcodes/tinymce/config.php:327
+#: shortcodes/tinymce/config.php:756 shortcodes/tinymce/config.php:839
+#: shortcodes/tinymce/config.php:914 shortcodes/tinymce/config.php:1309
+#: shortcodes/tinymce/config.php:1336 shortcodes/tinymce/config.php:1652
+#: shortcodes/tinymce/config.php:1663
+msgid "No"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:206
+msgid "Display Bullet Navigation"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:215
+msgid "Display Arrow Navigation"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:224 shortcodes/tinymce/config.php:432
+#: widgets/testimonials-widget.php:197
+msgid "Slideshow Speed"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:225 shortcodes/tinymce/config.php:433
+msgid "Intreval between two slides. 1000=1 second, 5000= 5 second"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:231
+msgid "Image Slider"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:238
+msgid "Maximum image width : 940px, height size is flexible."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:242 shortcodes/tinymce/config.php:662
+msgid "Link on Image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:243
+msgid "Add link to open page or post by click on image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:250
+msgid "Add Another Slide"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:261 widgets/recent-posts-widget.php:114
+msgid ""
+"If you want to display specific category(ies) recent posts only, then add "
+"Category IDs with comma seperated (e.g. 1,2,3) or <strong>Leave it blank for "
+"default.</strong>"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:266 shortcodes/tinymce/config.php:388
+msgid "Exclude Categories"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:267
+msgid "add post categories IDs with comma seperate to exclude from post list"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:272
+msgid "Description Limit"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:273
+msgid "Number of characters to display in summery text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:278
+msgid "Read More Link Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:279
+msgid "Leave it blank to hide \"Read More\" link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:284 shortcodes/tinymce/config.php:1748
+msgid "Post Limit"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:285 shortcodes/tinymce/config.php:1749
+msgid "Number of posts to display"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:299 shortcodes/tinymce/config.php:335
+#: shortcodes/tinymce/config.php:349 widgets/recent-posts-widget.php:12
+#: widgets/recent-posts-widget.php:103
+msgid "Recent Posts"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:308 shortcodes/tinymce/config.php:367
+#: shortcodes/tinymce/config.php:631
+msgid "Display Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:309
+msgid "Select display column for recent posts"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:312 shortcodes/tinymce/config.php:372
+#: shortcodes/tinymce/config.php:635
+msgid "2 Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:313 shortcodes/tinymce/config.php:373
+#: shortcodes/tinymce/config.php:636
+msgid "3 Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:314 shortcodes/tinymce/config.php:374
+#: shortcodes/tinymce/config.php:637
+msgid "4 Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:322
+msgid "Display Date and Comments"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:361
+msgid "Number of Testimonials"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:362
+msgid "Enter number to display testimonials"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:371
+msgid "1 Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:379 shortcodes/tinymce/config.php:413
+msgid "Client Image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:382 shortcodes/tinymce/config.php:416
+msgid "Display Client Image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:383 shortcodes/tinymce/config.php:417
+msgid "Hide Client Image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:389
+msgid ""
+"add testimonials categories IDs with comma seperate to exclude from display"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:394 shortcodes/tinymce/config.php:1205
+#: shortcodes/tinymce/config.php:1260
+msgid "Note"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:396
+msgid "Add Testimonials from left sidebar menu Testimonials > Add New "
+msgstr ""
+
+#: shortcodes/tinymce/config.php:426
+msgid "Horizontal"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:427
+msgid "Vertical"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:438
+msgid "Slide Limit"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:439
+msgid "Enter number to display testimonials slides in slideshows"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:445
+msgid "Testimonials Slider"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:456
+msgid "Video URL"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:457
+msgid ""
+"Enter embed YouTube/Vimeo video URL.<br />Use sample URLs and replace video "
+"ids in  sample URL<br /> YouTube : http://www.youtube.com/embed/sn1GG20V_m8 "
+"<br />Vimeo: http://player.vimeo.com/video/30955798 <br /> "
+msgstr ""
+
+#: shortcodes/tinymce/config.php:474
+msgid "Team Member Image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:475
+msgid "Size - 99px width and 93px height"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:480 shortcodes/tinymce/config.php:613
+msgid "Name"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:482 shortcodes/tinymce/config.php:615
+msgid "John Doe"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:486 shortcodes/tinymce/config.php:619
+msgid "Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:488 shortcodes/tinymce/config.php:621
+msgid "Project Manager"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:492
+msgid "Email Id"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:494
+msgid "info@yourdomain.com"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:498
+msgid "Phone No."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:506
+msgid "Support Team"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:517
+msgid "Tooltip Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:518
+msgid "Select tooltip display position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:520
+msgid "Up"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:521
+msgid "Down"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:522
+msgid "Left"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:523
+msgid "Right"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:527
+msgid "Exmaple of tooltip text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:529
+msgid "Tooltip Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:530
+msgid "Enter text which you want to display in tooltip"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:533
+msgid "Tooltip"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:535
+msgid "Content"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:542
+msgid "Tooltips"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:554
+msgid "Google Map Height"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:560
+msgid "Google Map Link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:561
+msgid ""
+"<a href=\"https://www.youtube.com/watch?v=HjZHkEWTCYg\" target=\"_blank"
+"\">Video tutorial to get google map embed code</a>"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:566
+msgid "Google Map "
+msgstr ""
+
+#: shortcodes/tinymce/config.php:577
+msgid "Social Media Icons"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:583
+msgid "Social Media Icon"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:584
+msgid ""
+"You can refer social media icon from this page :<a href=\"http://fortawesome."
+"github.io/Font-Awesome/icons/#brand\" target=\"_blank\">FontAwesome</a>"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:589 shortcodes/tinymce/config.php:1321
+msgid "Link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:596
+msgid "Add Another Icon"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:608
+msgid "Team Member Photo"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:609
+msgid "Upload team member image - size: 689 x 689 ( height size is flexible)"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:626
+msgid "Team Member Info"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:627
+msgid ""
+"if Team Member Style is \"Team Member with Large Text\"  then add text "
+"otherwise leave it blank."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:638
+msgid "5 Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:639
+msgid "6 Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:646
+msgid "Team Member"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:663
+msgid ""
+"If you want to add lightbox property on this image then give full size image "
+"path in above box."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:668
+msgid "Image Alignment"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:669
+msgid "Select column as per images size."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:671
+msgid "Left Align"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:672
+msgid "Right Align"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:673
+msgid "Center Align"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:678
+msgid "Image Alternate Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:684
+msgid "Image Title Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:702 shortcodes/tinymce/config.php:814
+#: shortcodes/tinymce/config.php:921
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:703
+msgid "If you want to hide button then leave this field blank"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:704
+msgid "Signup Now!"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:708 shortcodes/tinymce/config.php:820
+#: shortcodes/tinymce/config.php:926
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:713
+msgid "This is title text of promotion box"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:715
+msgid "Promotion Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:716
+msgid "Add the promotion text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:720
+msgid "Title Text Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:726
+msgid "Title Text Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:732
+msgid "this is sub line promo text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:734
+msgid "Sub Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:735
+msgid "Add the subline promotext"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:739
+msgid "Sub Text Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:745
+msgid "Sub Text Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:752
+msgid "Display Border Around Box"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:763
+msgid "Promo Box"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:774
+msgid "Table Column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:777
+msgid "Two Column Table"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:778
+msgid "Three Column Table"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:779
+msgid "Four Column Table"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:784
+msgid "Table Title"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:786
+msgid "Title Here"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:790
+msgid "Price"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:796
+msgid "Price Sub Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:802
+msgid "Button Background Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:808
+msgid "Button Text Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:816
+msgid "Buy Now!"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:826
+msgid "Table Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:827
+msgid "Select Table position. First,middle or last position."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:829
+msgid "Middle"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:830
+msgid "First Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:831
+msgid "Last Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:836
+msgid "Popular Plan"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:837
+msgid ""
+"Select \"Yes\" if this table has most popular plan. It will display large "
+"than other tables."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:852
+msgid "Table Content"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:853
+msgid "Add the table content in list format."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:859
+msgid "Pricing Table"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:870
+msgid "Button Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:876 shortcodes/tinymce/config.php:1397
+#: shortcodes/tinymce/config.php:1805
+msgid "Font Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:882
+msgid "Button Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:884 shortcodes/tinymce/config.php:1281
+msgid "Tiny"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:885 shortcodes/tinymce/config.php:1282
+msgid "Small"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:886 shortcodes/tinymce/config.php:1283
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:887 shortcodes/tinymce/config.php:1284
+msgid "Large"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:888
+msgid "X Large"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:893
+msgid "Button Shape"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:896
+msgid "Square"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:897
+msgid "Round"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:898
+msgid "Capsule"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:903
+msgid "Button Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:906
+msgid "Standard"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:907
+msgid "Outline - Transparent Background"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:912
+msgid "3D Effect"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:919
+msgid "Read more"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:922
+msgid ""
+"Add the button text. If you want to add icon before button text then use "
+"simple shortcode <br/>[fa_icon icon=\"fa-star\"]<br />Icon Referce Website : "
+"<a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank"
+"\">Font Awesome</a>"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:932
+msgid "Link Target"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:933
+msgid "Select display size of button"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:935
+msgid "Open page in same window"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:936
+msgid "Open page in new window"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:941
+msgid "Text Shadow Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:943 shortcodes/tinymce/config.php:1781
+msgid "Dark"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:944 shortcodes/tinymce/config.php:1780
+msgid "Light"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:945
+msgid "No Shadow"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:952
+msgid "Button"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:963
+msgid "Tabs Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:966
+msgid "Horizontal Tabs"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:967
+msgid "Vertical Tabs"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:971
+msgid "Tab 1"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:973
+msgid "Tab 1 Title"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:977 shortcodes/tinymce/config.php:989
+#: shortcodes/tinymce/config.php:1001 shortcodes/tinymce/config.php:1013
+msgid "tab description here"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:979
+msgid "Tab 1 Description"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:983
+msgid "Tab 2"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:985
+msgid "Tab 2 Title"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:991
+msgid "Tab 2 Description"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:995
+msgid "Tab 3"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:997
+msgid "Tab 3 Title"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1003
+msgid "Tab 3 Description"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1007
+msgid "Tab 4"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1009
+msgid "Tab 4 Title"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1015
+msgid "Tab 4 Description"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1028
+msgid "Tabs"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1039
+msgid "Toogle Status"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1042
+msgid "Close"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1043
+msgid "Open"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1048 shortcodes/tinymce/config.php:1081
+#: shortcodes/tinymce/config.php:1235 shortcodes/tinymce/config.php:1266
+#: shortcodes/tinymce/config.php:1356 shortcodes/tinymce/config.php:1403
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1049 shortcodes/tinymce/config.php:1082
+#: shortcodes/tinymce/config.php:1236 shortcodes/tinymce/config.php:1267
+#: shortcodes/tinymce/config.php:1404
+msgid "Select and Deselect icon by click on icon"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1054 shortcodes/tinymce/config.php:1087
+msgid "Toggle Content Title"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1055 shortcodes/tinymce/config.php:1088
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1056 shortcodes/tinymce/config.php:1089
+msgid "Title"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1059 shortcodes/tinymce/config.php:1092
+msgid " [p] Insert toggle content here [/p]  "
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1061 shortcodes/tinymce/config.php:1094
+msgid "Toggle Content"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1062 shortcodes/tinymce/config.php:1095
+msgid ""
+"Add the toggle content. If you are adding more than one line then you can "
+"remove [p]...[/p] shortcode because wordpress will automatically add "
+"paragraph tag for all next lines."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1068
+msgid "Toggle Simple"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1075
+msgid "Toggle Accordion"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1101 shortcodes/tinymce/config.php:1248
+#: shortcodes/tinymce/config.php:1466 shortcodes/tinymce/config.php:1504
+#: shortcodes/tinymce/config.php:1586
+msgid "Add Another Item"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1113
+msgid "This is sample text for blockquote"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1115 shortcodes/tinymce/config.php:1143
+msgid "Quote Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1116 shortcodes/tinymce/config.php:1144
+msgid "Add the quote text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1121 shortcodes/tinymce/config.php:1149
+msgid "Quote"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1133
+msgid "Quote Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1134
+msgid "Select quote style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1136
+msgid "Pull Quote Left"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1137
+msgid "Pull Quote Right"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1141
+msgid "This is sample text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1160
+msgid "Ordered List Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1161
+msgid "Select list style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1163
+msgid "Steps with circle icons style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1164
+msgid "Steps with Box style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1165
+msgid "Lower Roman"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1166
+msgid "Upper Roman"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1167
+msgid "Lower Alpha"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1168
+msgid "Upper Alpha"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1179 shortcodes/tinymce/config.php:1242
+msgid "List Content"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1185
+msgid "List"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1197
+msgid "Info Box Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1198
+msgid "Select info box style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1200
+msgid "Info"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1201
+msgid "Success"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1202
+msgid "Error"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1203
+msgid "Warning"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1204
+msgid "Download"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1209
+msgid "Sample text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1211
+msgid "Info Box Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1212
+msgid "Add the info box text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1218
+msgid "Info Box"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1229
+msgid "List Icons"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1262
+msgid ""
+"If you want to display icon without any format then you can use simple "
+"shortcode <br /> [fa_icon icon=\"fa-star\"] "
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1272 shortcodes/tinymce/config.php:1415
+msgid "Icon Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1278
+msgid "Icon Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1285
+msgid "xlarge"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1290
+msgid "Icon Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1293
+msgid "Default"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1294
+msgid "Icon with Square Shape"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1295
+msgid "Icon with Circle Shape"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1300
+msgid "Icon Background"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1301
+msgid ""
+"If \"Icon Style\" drodown is selected \"Icon with Square or Circle Shape\" "
+"then enter icon background color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1306
+msgid "Display Icon Border"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1307
+msgid ""
+"If \"Icon Style\" drodown is selected \"Icon with Square or Circle Shape\" "
+"then you can add border on square or circle shape"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1315
+msgid "Border Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1316
+msgid ""
+"If \"Display Icon Border\" drodown is selected \"Yes\" then enter icon "
+"border color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1322
+msgid "Enter full url to create clickable icon"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1327
+msgid "Margin"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1328
+msgid "Set margin around icon."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1334
+msgid "Rotate Icon"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1343
+msgid "Select icon animation style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1367
+msgid "Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1368
+msgid ""
+"Enter gap size in pixels, ems, or percentages ( Example: 30px, 3em or 3% )."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1374
+msgid "Gap"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1385
+msgid "Counter Box"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1391
+msgid "Box Background Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1409
+msgid "Icon Background Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1421
+msgid "Counter Number"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1422
+msgid "Counter will animated above numter"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1427
+msgid "Unit"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1428
+msgid "Enter the unit for the counter number ( Example %, $, + )."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1433
+msgid "Unit Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1436
+msgid "Before Number"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1437
+msgid "After Number"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1442 shortcodes/tinymce/config.php:1553
+msgid "Animation Speed"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1443 shortcodes/tinymce/config.php:1554
+msgid ""
+"Add animation speed in miliseconds ( Example 1000 = 1 second, 5000 = 5 "
+"second. )"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1448
+msgid "Columln"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1449
+msgid "Select counter box display column"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1451
+msgid "2"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1452
+msgid "3"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1453
+msgid "4"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1454
+msgid "5"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1458
+msgid "description text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1460
+msgid "Small Description text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1478
+msgid "Progress Bar"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1484 shortcodes/tinymce/config.php:1522
+msgid "Percentage"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1491
+msgid "Title Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1497 shortcodes/tinymce/config.php:1598
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1516
+msgid "Counter Circles"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1529
+msgid "Bar Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1535
+msgid "Track Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1541
+msgid "Track Line Width"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1542
+msgid "Enter circle line width in number"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1547
+msgid "Circle Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1548
+msgid "Enter circle size in number"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1558
+msgid "Mytext"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1560
+msgid "Circle Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1561
+msgid "This text will display inside animated circle"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1565
+msgid "Circle Text Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1572 shortcodes/tinymce/config.php:1831
+msgid "Description Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1573
+msgid "This text will display below circle"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1574
+msgid "Description here"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1578
+msgid "Description Text Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1599
+msgid "Set section backgorund color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1604
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1605
+msgid "Upload background image"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1609
+msgid "Background Repeat"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1613
+msgid "Repeat"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1614
+msgid "No Repeat"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1615
+msgid "Repeat X"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1616
+msgid "Repeat Y"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1621
+msgid "Background Position"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1625
+msgid "Left Top"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1626
+msgid "Left Center"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1627
+msgid "Left Bottom"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1628
+msgid "Right Top"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1629
+msgid "Right Center"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1630
+msgid "Right Bottom"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1631
+msgid "Center Top"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1632
+msgid "Center Center"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1633
+msgid "Center Bottom"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1638
+msgid "Background Attachment"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1642
+msgid "Scroll"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1643
+msgid "Fixed"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1648
+msgid "100% Background Image Width"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1658
+msgid "Enable Parallax Scrolling"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1659
+msgid ""
+"<a href=\"http://www.ianlunn.co.uk/plugins/jquery-parallax/\" target=\"_blank"
+"\">Click here</a> to know more about Parallax Scrolling"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1668
+msgid "Parallax Scrolling Speed"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1669
+msgid ""
+"Enter background image scrolling speed value in number between -10.0 to "
+"10.0. <br />Minus value will scroll background image down. <br /> ( Example "
+"1.5, 2.0, -4.5, 2.5 )  "
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1674
+msgid "Border Width"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1675
+msgid ""
+"If you want to make section with border then set border width and then set "
+"top and/or bottom border colors"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1681
+msgid "Top Border Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1686
+msgid "Bottom Border Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1691
+msgid "Arrow Direction"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1692
+msgid ""
+"If you want to make section with top or bottom direction arrow then select "
+"from above drop down."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1695
+msgid "Hide Arrow"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1696
+msgid "Display Arrow Top"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1697
+msgid "Display Arrow Bottom"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1702
+msgid "Arrow Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1707
+msgid "Padding Top"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1708
+msgid "Enter section padding top value in pixels or em. ( Example 20px, 2em )"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1713
+msgid "Padding Bottom"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1714
+msgid ""
+"Enter section padding bottom value in pixels or em. ( Example 20px, 2em )"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1719
+msgid "Section Font Color"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1724
+msgid "Section ID"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1725
+msgid "Enter unique ID to style this section with custom CSS style."
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1729
+msgid "Add section content here"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1731
+msgid "Section Content"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1737
+msgid "Full Width Section for \"Page\""
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1755
+msgid "Event Type"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1756 shortcodes/tinymce/config.php:1778
+msgid "Select dropcaps style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1758
+msgid "Upcoming"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1759
+msgid "Past"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1766 widgets/upcoming-events-widget.php:16
+#: widgets/upcoming-events-widget.php:98
+msgid "Upcoming Events"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1777
+msgid "Dropcap Style"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1785
+msgid "A"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1787
+msgid "Dropcap Text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1788
+msgid "Add the dropcap text"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1794
+msgid "Dropcaps"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1810
+msgid "Font Size"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1816
+msgid "Font Line Height"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1822
+msgid "Font Weight"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1824
+msgid "Normal"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1825
+msgid "Bold"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1829
+msgid "Your Text Here"
+msgstr ""
+
+#: shortcodes/tinymce/config.php:1837
+msgid "Font"
+msgstr ""
+
+#: shortcodes/tinymce/popup.php:37
+msgid "Insert Shortcode"
+msgstr ""
+
+#: widgets/aboutme-widget.php:6
+msgid "Short description about person"
+msgstr ""
+
+#: widgets/aboutme-widget.php:8
+msgid "Widget - About Me"
+msgstr ""
+
+#: widgets/aboutme-widget.php:77
+msgid "Person Name:"
+msgstr ""
+
+#: widgets/aboutme-widget.php:80
+msgid "Person Bio Text:"
+msgstr ""
+
+#: widgets/aboutme-widget.php:83
+msgid "Social Media Icons:"
+msgstr ""
+
+#: widgets/aboutme-widget.php:86
+msgid "Person Image URL:"
+msgstr ""
+
+#: widgets/advertise-widget.php:11
+msgid "Display advertise image with link, title tag and alt tag"
+msgstr ""
+
+#: widgets/advertise-widget.php:13
+msgid "Widget - Advertise"
+msgstr ""
+
+#: widgets/advertise-widget.php:98
+msgid "Advertise"
+msgstr ""
+
+#: widgets/advertise-widget.php:150
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/advertise-widget.php:153
+msgid "<p><small><strong>Image size 125px x 125px</strong>.</small></p>"
+msgstr ""
+
+#: widgets/advertise-widget.php:160
+msgid ""
+"Check this box if you want to open all advertise images links in a "
+"<strong>New Window</strong>."
+msgstr ""
+
+#: widgets/advertise-widget.php:178
+msgid "Advertise Image "
+msgstr ""
+
+#: widgets/advertise-widget.php:179
+msgid "Image Path:"
+msgstr ""
+
+#: widgets/advertise-widget.php:180
+msgid "Image Link URL:"
+msgstr ""
+
+#: widgets/advertise-widget.php:181
+msgid "Image Title Tag:"
+msgstr ""
+
+#: widgets/advertise-widget.php:182
+msgid "Image Alt Tag:"
+msgstr ""
+
+#: widgets/category-widget.php:6
+msgid "My list or dropdown of categories"
+msgstr ""
+
+#: widgets/category-widget.php:7
+msgid "Widget - Categories"
+msgstr ""
+
+#: widgets/category-widget.php:52 widgets/recent-posts-widget.php:109
+#: widgets/recent-work-widget.php:74 widgets/testimonials-widget.php:176
+#: widgets/upcoming-events-widget.php:105
+msgid "Widget Title:"
+msgstr ""
+
+#: widgets/category-widget.php:56
+msgid "Exclude Categories:"
+msgstr ""
+
+#: widgets/category-widget.php:57
+msgid "Categories IDs, separated by commas (e.g. 1,8)"
+msgstr ""
+
+#: widgets/category-widget.php:61
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/contact-info-widget.php:6
+msgid "Show Name, Email, Phone and Map"
+msgstr ""
+
+#: widgets/contact-info-widget.php:8
+msgid "Widget - Contact Info"
+msgstr ""
+
+#: widgets/contact-info-widget.php:89 widgets/offer-widget.php:64
+#: widgets/video-widget.php:47
+msgid "Title:"
+msgstr ""
+
+#: widgets/contact-info-widget.php:93
+msgid "Info description:"
+msgstr ""
+
+#: widgets/contact-info-widget.php:96
+msgid "Google Map Embedded Code:"
+msgstr ""
+
+#: widgets/contact-info-widget.php:99
+msgid "Phone:"
+msgstr ""
+
+#: widgets/contact-info-widget.php:102
+msgid "Email:"
+msgstr ""
+
+#: widgets/contact-info-widget.php:105
+msgid "Address:"
+msgstr ""
+
+#: widgets/offer-widget.php:6
+msgid "Add special offer or donation details"
+msgstr ""
+
+#: widgets/offer-widget.php:8
+msgid "Widget - Special Offer"
+msgstr ""
+
+#: widgets/offer-widget.php:68
+msgid "Icon Name:"
+msgstr ""
+
+#: widgets/offer-widget.php:70
+msgid ""
+"Add icon name e.g. fa-star, fa-gift. You can refer icon name from this "
+"page : <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target="
+"\"_blank\">FontAwesome Icons</a>"
+msgstr ""
+
+#: widgets/offer-widget.php:73
+msgid "Small Description:"
+msgstr ""
+
+#: widgets/offer-widget.php:77
+msgid "Link on Box:"
+msgstr ""
+
+#: widgets/offer-widget.php:83
+msgid "Open linked page in new window"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:5
+msgid "Display latest blog posts"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:6
+msgid "Widget - Recent Posts"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:103 widgets/recent-work-widget.php:68
+msgid "read more"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:111 widgets/recent-work-widget.php:76
+msgid "Number of Posts to Display:"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:114 widgets/recent-work-widget.php:79
+msgid "Display Specific Categories:"
+msgstr ""
+
+#: widgets/recent-work-widget.php:5
+msgid "Display latest portfolio items"
+msgstr ""
+
+#: widgets/recent-work-widget.php:6
+msgid "Widget - Recent Work"
+msgstr ""
+
+#: widgets/recent-work-widget.php:12 widgets/recent-work-widget.php:68
+msgid "Recent Work"
+msgstr ""
+
+#: widgets/recent-work-widget.php:79
+msgid ""
+"If you want to display specific category(ies) recent work only, then add "
+"Category IDs with comma seperated (e.g. 1,2,3) or <strong>Leave it blank for "
+"default.</strong>"
+msgstr ""
+
+#: widgets/testimonials-widget.php:12
+msgid "Display Testimoinals with Rotation"
+msgstr ""
+
+#: widgets/testimonials-widget.php:13
+msgid "Widget - Testimonials"
+msgstr ""
+
+#: widgets/testimonials-widget.php:170
+msgid ""
+"Add Clients Testimonials from left sidebar menu \"Testimonials\" > Add New"
+msgstr ""
+
+#: widgets/testimonials-widget.php:183
+msgid "Word Limit:"
+msgstr ""
+
+#: widgets/testimonials-widget.php:185
+msgid "Set word limit of testimonial, leave it blank for full testimonial."
+msgstr ""
+
+#: widgets/testimonials-widget.php:192
+msgid "Type of transition between slides:<br /> horizontal, fade"
+msgstr ""
+
+#: widgets/testimonials-widget.php:199
+msgid "Slide transition duration (in ms)"
+msgstr ""
+
+#: widgets/testimonials-widget.php:204
+msgid "Slideshow Interval"
+msgstr ""
+
+#: widgets/testimonials-widget.php:206
+msgid "The amount of time (in ms) between each auto transition"
+msgstr ""
+
+#: widgets/testimonials-widget.php:211
+msgid "Number of Testimonials to Display:"
+msgstr ""
+
+#: widgets/testimonials-widget.php:213
+msgid ""
+"Set testimoinals slides limit, leave it blank to slide all testimonials."
+msgstr ""
+
+#: widgets/testimonials-widget.php:220
+msgid "Open client's website in <strong>New Window</strong>"
+msgstr ""
+
+#: widgets/testimonials-widget.php:225
+msgid "Hide <strong>Client Image</strong>"
+msgstr ""
+
+#: widgets/testimonials-widget.php:230
+msgid "Auto Slideshow"
+msgstr ""
+
+#: widgets/testimonials-widget.php:235
+msgid "Pause Slideshow on mouseover"
+msgstr ""
+
+#: widgets/testimonials-widget.php:240
+msgid "Smooth Auto Height"
+msgstr ""
+
+#: widgets/testimonials-widget.php:245
+msgid "Display Navigation Arrows"
+msgstr ""
+
+#: widgets/upcoming-events-widget.php:6
+msgid "Display upcoming events"
+msgstr ""
+
+#: widgets/upcoming-events-widget.php:7
+msgid "Widget - Upcoming Events"
+msgstr ""
+
+#: widgets/upcoming-events-widget.php:107
+msgid "Number of Events to Display:"
+msgstr ""
+
+#: widgets/video-widget.php:6
+msgid "Show YouTube, Vimeo videos"
+msgstr ""
+
+#: widgets/video-widget.php:8
+msgid "Widget - Video"
+msgstr ""
+
+#: widgets/video-widget.php:50
+msgid "YouTube / Vimeo Embed Code:"
+msgstr ""

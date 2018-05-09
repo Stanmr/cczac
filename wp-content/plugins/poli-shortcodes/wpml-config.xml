@@ -1,0 +1,21 @@
+<wpml-config>
+	  <custom-fields>        
+		<custom-field action="ignore">swm_client_details</custom-field>
+		<custom-field action="ignore">swm_client_logo_url</custom-field>
+		<custom-field action="ignore">swm_portfolio_project_type</custom-field>
+		<custom-field action="ignore">swm_website_title</custom-field>		
+		<custom-field action="ignore">swm_website_url</custom-field>       
+    </custom-fields>
+	<custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">logos</custom-type>
+        <custom-type translate="1">faq</custom-type>          
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">portfolio-category</taxonomy>
+        <taxonomy translate="1">logos-category</taxonomy>
+        <taxonomy translate="1">testimonials-category</taxonomy>
+        <taxonomy translate="1">faq-category</taxonomy>
+    </taxonomies> 
+</wpml-config>
